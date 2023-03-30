@@ -3,7 +3,7 @@
 <a href="https://twitter.com/jenillakhani7"> Twitter</a> &bull; <a href="mailto:jenillakhani712@gmail.com">Mail</a>
 </p>
 
-I'm a frontend developer currently living in Gujarat, India. Right now I am an undergraduate studying at Nirma University for my bachelor degree in Computer Science and Engineering.
+I'm a frontend developer currently living in Gujarat, India. Right now I am an undergraduate studying at A.D Patel Institute Of Technology for my bachelor degree in Information Technology and Engineering.
 
 -   🌱 I’m currently learning **NextJS**
 
